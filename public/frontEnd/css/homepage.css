@@ -1,0 +1,79 @@
+h5{
+    margin-left: 50px;
+}
+button{
+    position: absolute;
+    right: 150px;
+    top: 50px;
+}
+.container #username{
+    position: absolute;
+    top: 45px;
+    right: 250px;
+    border: 0.5px solid grey;
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'FontAwesome';
+}
+.container i{
+    margin-left: 5px;
+}
+.container #post{
+    position: absolute;
+    top: 130px;
+    right: 200px;
+}
+.post{
+    border: 1px solid gray;
+    margin-top: 100px;
+}
+
+.post p{
+    text-align: center;
+}
+.profile-user{
+    position: absolute;
+    right: 140px;
+    top: 250px;
+    border: 0.5px solid gainsboro;
+}
+.profile-user img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
+
+
+.new-post{
+    position: absolute;
+    top: 150px;
+    right: 150px;
+    width: 450px;
+    height: 500px;
+    background-color: rgba(6,57,112, 0.8);
+    padding: 15px;
+    color: white;
+    border-radius: 20px;
+    display: none;
+}
+
+.new-post i{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    font-size: 22px;
+    opacity: 1;
+    cursor: pointer;
+}
+.new-post i:hover{
+    opacity: 0.7;
+}
+.new-post img{
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.new-post #btn-post{
+    position: absolute;
+    right: 50px;
+}

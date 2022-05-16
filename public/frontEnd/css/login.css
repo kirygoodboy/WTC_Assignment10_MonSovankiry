@@ -1,0 +1,33 @@
+
+.login-form{
+    margin-top: 200px;
+    width: 70%;
+    height: 400px;
+    background-color: ghostwhite;
+    display: flex;
+    border: 5px solid gainsboro;
+}
+.login-img{
+    width: 40%;
+    height: 100%;
+}
+.login-img img{
+    width: 100%;
+    height: 100%;
+}
+.login{
+    width: 60%;
+    height: 100%;
+    padding: 30px;
+}
+.choose-file label{
+    width: 100%;
+    margin-top: -10px;
+}
+.btn-sign-in{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.btn-back{
+    margin-top: 10px;
+}
